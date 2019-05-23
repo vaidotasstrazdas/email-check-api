@@ -1,6 +1,10 @@
 # Email Verification Library
 Using this library, you can verify if email entered is real or not. By real it is meant that it will be validated not just in a synctactic way, but also against SMTP server.
 
+## Installation
+
+Through composer: *composer require developernode/email-verify*
+
 ## Usage
 
 ```php
