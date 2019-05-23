@@ -1,0 +1,30 @@
+{
+    "name": "developernode/email-verify",
+    "description": "Email Verification Library",
+    "keywords": [ "email verification", "real email" ],
+    "homepage": "http://developernode.net/",
+    "license": "MIT",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Vaidotas Strazdas",
+            "email": "vaidotas@developernode.net"
+        }
+    ],
+    "require": {
+        "myclabs/php-enum": "^1.6"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^6.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "DeveloperNode\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "DeveloperNode\\Test\\": "tests/"
+        }
+    }
+}
