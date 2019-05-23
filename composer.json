@@ -4,6 +4,7 @@
     "keywords": [ "email verification", "real email" ],
     "homepage": "http://developernode.net/",
     "license": "MIT",
+    "version": "1.0.0"
     "type": "library",
     "authors": [
         {
@@ -26,5 +27,5 @@
         "psr-4": {
             "DeveloperNode\\Test\\": "tests/"
         }
-    }
+    },
 }
