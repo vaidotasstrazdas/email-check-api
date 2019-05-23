@@ -4,7 +4,7 @@
     "keywords": [ "email verification", "real email" ],
     "homepage": "http://developernode.net/",
     "license": "MIT",
-    "version": "1.0.0"
+    "version": "1.0.0",
     "type": "library",
     "authors": [
         {
